@@ -1,5 +1,5 @@
 # cstorm-mirror
-unathorized mirror of some cryptostorm(.is/.org) stuff.
+<b>unathorized mirror of some cryptostorm stuff... just in case it goes dark again..</b>
 <br />
 <br />
 status-update_2015-11-17.zip <br />
