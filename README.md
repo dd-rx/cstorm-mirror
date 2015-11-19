@@ -2,6 +2,9 @@
 <b>unathorized mirror of some cryptostorm stuff... just in case it goes dark again..</b>
 <br />
 <br />
+status-update-update_2015-11-19.zip <br />
+sha256: 20a3cdbaac32bd3d77c30055a441b8dec637d999cea16b233c397a14c5a14bfb
+<br /><br />
 status-update_2015-11-17.zip <br />
 sha256: 39ad3ea3221673a3fce556f95e56307519ff498d988c8937313d4e4d46034866
 <br /><br />
